@@ -74,3 +74,5 @@ Fork → Branch → Test → PR. Avoid modifying version/history unless necessar
 Copyright &copy; 2011 Ramihajamalala Hery. See LICENSE.
 
 **Maintainers**: hery[at]rails-royce.org, francesco.belladonna[at]gmail.com, dusanek[at]iquest.cz
+
+# PR Merge: 2025-11-30 11:05:51
